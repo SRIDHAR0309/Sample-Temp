@@ -1,0 +1,57 @@
+Kisuke Urahara: "Ah, greetings, young Shinigami! I see you're on a quest to uncover the secret key to the Zanpakuto. I can assist you, but first, you must solve a small puzzle."
+
+Participant: "Hello, Kisuke Urahara! We’re ready for your help. What do we need to do?"
+
+Kisuke Urahara:
+	"Ah, I see you’ve decided to start, huh? 😏 So, you’re here for the first part of the key? Heh, good luck with that! 🍀
+You know, I’ve never been one for coding or tech—those things bore me. 💤 But hiding secrets? Now that’s a game I enjoy! 🕵️‍♂️
+I’ve hidden clues in the most unexpected places, even within this very file you’re reading. But will you be sharp enough to find it? 🔍
+Or will you waste your time trying to decipher some silly code? 🧑‍💻
+
+If you think you’re up to the challenge, go ahead—give it a shot! 🎯 But I warn you, you might just end up spending all your time with me, learning the nuances of something I couldn’t care less about. 😌 The key is within your reach… if you can find it! 🔑"
+
+#include <studo.h>
+#include <conio.h>
+
+// This is what is called as function Declaration
+void printMessage();
+
+int main()
+// Main function don't tell me u don't know about it
+ {
+    // Function call
+    printMessage();
+    return 0;
+// Just my bank balance 
+}
+
+// Function and my Definition
+void printMessage() {
+    printf('The above all content is useless coz I dont give a damn thing on errors101");
+    // Ahh I bet u know what does printf do
+    printf("While programmers ignore comment line u as a participant ignore the code and focues on comment line");
+    // Let me make the 1st digit easy for u " He is neither a prime nor composite like me "
+}
+
+Kisuke Urahara: sleeping… 😴
+
+Kisuke Urahara:
+"What? You found the 1st digit already, huh? 😳 Okay, now understand & solve the below program:"
+
+
+#include <stdio.h>
+#include <Nutpam.h>
+
+// Not again I bored with comment Lines this time!!!!
+void Message();
+
+int main() {
+    Message();
+    return 0;
+}
+
+// Function definition
+void Message() {
+    printf(" See if u wanna find the 2 nd digit find the symbol ( ' ) in Readme file and start from it ");
+}
+
